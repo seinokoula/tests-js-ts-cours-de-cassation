@@ -1,0 +1,737 @@
+[
+  {
+    "_id": "55b8a5db-f245-45bb-8913-da0168619bc4",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Bordeaux",
+    "text": "La cour a rejeté la demande pour absence de fondement. La juridiction confirme le jugement précédent. La cassation a été partiellement acceptée.",
+    "dateCreation": "2019-10-22T12:59:21.421250"
+  },
+  {
+    "_id": "d7e437bb-8599-48af-a590-029d6682cad9",
+    "source": "Tribunal de Commerce",
+    "localisation": "Lyon",
+    "text": "Le conseil statue sur le litige. L'appelant a fourni de nouveaux éléments. L'affaire sera examinée en appel. Le tribunal a rendu une décision favorable. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2017-07-06T12:59:21.421374"
+  },
+  {
+    "_id": "ff625d5a-2246-4af0-bee2-b57d5a72def5",
+    "source": "Cour de Cassation",
+    "localisation": "Paris",
+    "text": "Le conseil statue sur le litige. L'affaire sera examinée en appel. Le tribunal a rendu une décision favorable. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2023-07-25T12:59:21.421607"
+  },
+  {
+    "_id": "fd57e60a-10c4-48d0-871a-e37b91f4c4cc",
+    "source": "Cour d'Appel",
+    "localisation": "Erigny",
+    "text": "L'appelant a fourni de nouveaux éléments. L'appelant a fourni de nouveaux éléments. Un jugement contradictoire a été prononcé. L'affaire sera examinée en appel. La cassation a été partiellement acceptée.",
+    "dateCreation": "2022-08-14T12:59:21.421943"
+  },
+  {
+    "_id": "7763ef32-2cee-4d8b-8174-16613fe88467",
+    "source": "Cour de Cassation",
+    "localisation": "Paris",
+    "text": "Une audience supplémentaire est prévue. La cour a rejeté la demande pour absence de fondement. La juridiction confirme le jugement précédent. La cassation a été partiellement acceptée.",
+    "dateCreation": "2018-04-24T12:59:21.422192"
+  },
+  {
+    "_id": "2e72c24f-3b52-4808-b7b7-069162177c78",
+    "source": "Cour d'Appel",
+    "localisation": "Marseille",
+    "text": "Une audience supplémentaire est prévue. L'affaire sera examinée en appel.",
+    "dateCreation": "2018-09-19T12:59:21.422388",
+    "interetParticulier": true
+  },
+  {
+    "_id": "04c09ac3-38f5-4fdf-b091-b52d83dce534",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Erigny",
+    "text": "L'affaire sera examinée en appel. Un jugement contradictoire a été prononcé. La cour a rejeté la demande pour absence de fondement. L'appelant a fourni de nouveaux éléments. Un jugement contradictoire a été prononcé.",
+    "dateCreation": "2024-08-01T12:59:21.422480"
+  },
+  {
+    "_id": "9cbe7edc-ec35-40a2-88e5-f1a1e3c62493",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Bordeaux",
+    "text": "Le juge a ordonné une expertise complémentaire. L'appelant a fourni de nouveaux éléments. La cour a rejeté la demande pour absence de fondement.",
+    "dateCreation": "2017-06-02T12:59:21.422539"
+  },
+  {
+    "_id": "7e70f697-d73f-4383-8340-2c0cc014796f",
+    "source": "Tribunal de Commerce",
+    "localisation": "Paris",
+    "text": "L'appelant a fourni de nouveaux éléments. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2019-02-27T12:59:21.422605"
+  },
+  {
+    "_id": "37a0318b-0b45-4efa-8bc6-c45884d5e767",
+    "source": "Cour d'Appel",
+    "localisation": "Lyon",
+    "text": "L'appelant a fourni de nouveaux éléments. La cassation a été partiellement acceptée. Une audience supplémentaire est prévue. La cassation a été partiellement acceptée.",
+    "dateCreation": "2016-03-21T12:59:21.422646"
+  },
+  {
+    "_id": "a9f862c1-bfb1-48e0-be8f-bcff3b02c3b3",
+    "source": "Cour d'Appel",
+    "localisation": "Erigny",
+    "text": "La cour a rejeté la demande pour absence de fondement. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2019-01-02T12:59:21.422661",
+    "interetParticulier": false
+  },
+  {
+    "_id": "a9c4bebb-7d25-4d38-8c7b-33a8d7d2d360",
+    "source": "Cour de Cassation",
+    "localisation": "Lyon",
+    "text": "L'affaire sera examinée en appel. La cassation a été partiellement acceptée. La cour a rejeté la demande pour absence de fondement. La juridiction confirme le jugement précédent. La cassation a été partiellement acceptée.",
+    "dateCreation": "2016-06-12T12:59:21.422678"
+  },
+  {
+    "_id": "f7e7eb3f-aab0-4c5e-867f-68b06ce736e1",
+    "source": "Tribunal de Commerce",
+    "localisation": "Lyon",
+    "text": "Le conseil statue sur le litige. La cour a rejeté la demande pour absence de fondement. Un jugement contradictoire a été prononcé. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2024-01-24T12:59:21.422696",
+    "interetParticulier": false
+  },
+  {
+    "_id": "8ae5d5fa-086d-4f0c-8404-a114f2c8ee87",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Erigny",
+    "text": "L'appelant a fourni de nouveaux éléments. Le conseil statue sur le litige. L'appelant a fourni de nouveaux éléments. La cour a rejeté la demande pour absence de fondement. Le tribunal a rendu une décision favorable. ⚖️ Le juge considère que…\nNouvelle ligne pour préciser.",
+    "dateCreation": "2023-06-14T12:59:21.422724"
+  },
+  {
+    "_id": "eb60770d-c162-49be-9d52-b462bf63ec0f",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Erigny",
+    "text": "L'appelant a fourni de nouveaux éléments. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2017-02-18T12:59:21.422835"
+  },
+  {
+    "_id": "33ac5e01-de70-4a38-81f7-06bd56b4fd23",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Reims",
+    "text": "L'appelant a fourni de nouveaux éléments. Le conseil statue sur le litige. Le tribunal a rendu une décision favorable. La cour a rejeté la demande pour absence de fondement. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2019-12-09T12:59:21.422850"
+  },
+  {
+    "_id": "b0825d04-4e4f-4c0f-8a01-cacadfe72eee",
+    "source": "Cour de Cassation",
+    "localisation": "Paris",
+    "text": "Un jugement contradictoire a été prononcé. Une audience supplémentaire est prévue. La cour a rejeté la demande pour absence de fondement. Un jugement contradictoire a été prononcé. La cassation a été partiellement acceptée.",
+    "dateCreation": "2019-02-28T12:59:21.422863"
+  },
+  {
+    "_id": "e92bc411-fd6b-43f1-94c8-6b4dc9eb97a0",
+    "source": "Cour d'Appel",
+    "localisation": "Lyon",
+    "text": "Un jugement contradictoire a été prononcé. La cour a rejeté la demande pour absence de fondement.",
+    "dateCreation": "2018-12-12T12:59:21.422875"
+  },
+  {
+    "_id": "7cc7380b-834e-43c9-88bf-4e4e3926e997",
+    "source": "Cour d'Appel",
+    "localisation": "Paris",
+    "text": "Une audience supplémentaire est prévue. La cour a rejeté la demande pour absence de fondement. Le tribunal a rendu une décision favorable. Une audience supplémentaire est prévue. Article 123‑4 du code civil : « l'usufruit s'éteint par la réunion sur la même tête… »",
+    "dateCreation": "2024-09-12T12:59:21.422886"
+  },
+  {
+    "_id": "d247db9e-3acf-426b-bb0a-02baa6d35763",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Lyon",
+    "text": "L'affaire sera examinée en appel. La cour a rejeté la demande pour absence de fondement. Un jugement contradictoire a été prononcé. L'appelant a fourni de nouveaux éléments. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2024-03-15T12:59:21.422897",
+    "interetParticulier": true
+  },
+  {
+    "_id": "256b07d4-6305-47fa-9957-0dc814d037fe",
+    "source": "Cour d'Appel",
+    "localisation": "Erigny",
+    "text": "La juridiction confirme le jugement précédent. L'appelant a fourni de nouveaux éléments. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2016-10-30T12:59:21.422911",
+    "interetParticulier": false
+  },
+  {
+    "_id": "7e4e78f3-544d-42e4-b094-1a6595fc581e",
+    "source": "Tribunal de Commerce",
+    "localisation": "Bobigny",
+    "text": "La cour a rejeté la demande pour absence de fondement. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2020-05-30T12:59:21.422930"
+  },
+  {
+    "_id": "f0107de3-a880-449c-a96a-a280e1700cdb",
+    "source": "Tribunal de Commerce",
+    "localisation": "Bobigny",
+    "text": "Le conseil statue sur le litige. L'appelant a fourni de nouveaux éléments. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2020-10-09T12:59:21.422941"
+  },
+  {
+    "_id": "49820658-4f92-4538-810a-6c63f9aa79f2",
+    "source": "Cour d'Appel",
+    "localisation": "Bordeaux",
+    "text": "La juridiction confirme le jugement précédent. Un jugement contradictoire a été prononcé. La juridiction confirme le jugement précédent. La cour a rejeté la demande pour absence de fondement.",
+    "dateCreation": "2024-09-08T12:59:21.422952",
+    "interetParticulier": true
+  },
+  {
+    "_id": "85e80b5c-f455-4d7e-bbc1-306a987f5803",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Bobigny",
+    "text": "Le conseil statue sur le litige. L'affaire sera examinée en appel. Le conseil statue sur le litige. Le conseil statue sur le litige.",
+    "dateCreation": "2019-07-01T12:59:21.422964"
+  },
+  {
+    "_id": "18aea9f3-4353-44fe-988a-26a3c38e62ea",
+    "source": "Cour de Cassation",
+    "localisation": "Erigny",
+    "text": "Le tribunal a rendu une décision favorable. La juridiction confirme le jugement précédent. La juridiction confirme le jugement précédent. Le conseil statue sur le litige.",
+    "dateCreation": "2025-07-22T12:59:21.422979"
+  },
+  {
+    "_id": "34a5c2d3-e9f3-4f3d-ae56-0d91c8d7ca96",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Reims",
+    "text": "Le juge a ordonné une expertise complémentaire. Une audience supplémentaire est prévue. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2020-05-25T12:59:21.422989"
+  },
+  {
+    "_id": "ff41707a-5977-4c87-8e91-10e1f5db3076",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Paris",
+    "text": "L'appelant a fourni de nouveaux éléments. Le conseil statue sur le litige. Une audience supplémentaire est prévue. Une audience supplémentaire est prévue. Une audience supplémentaire est prévue.",
+    "dateCreation": "2017-10-22T12:59:21.423003",
+    "interetParticulier": true
+  },
+  {
+    "_id": "84c73e07-4df9-465c-bb5a-62934a720ddf",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Bordeaux",
+    "text": "La cassation a été partiellement acceptée. L'affaire sera examinée en appel. Le juge a ordonné une expertise complémentaire. La cassation a été partiellement acceptée. Un jugement contradictoire a été prononcé.",
+    "dateCration": "2024-11-12T12:59:21.423016"
+  },
+  {
+    "_id": "ef4867ef-a363-4c55-a84b-d09455d86ff4",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Bordeaux",
+    "text": "Un jugement contradictoire a été prononcé. La cassation a été partiellement acceptée. La cassation a été partiellement acceptée. Le conseil statue sur le litige.",
+    "dateCreation": "2019-02-20T12:59:21.423032"
+  },
+  {
+    "_id": "d47a2205-fe22-4772-a9e0-c0282e1275c7",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Lyon",
+    "text": "La cour a rejeté la demande pour absence de fondement. La cour a rejeté la demande pour absence de fondement. Une audience supplémentaire est prévue. L'affaire sera examinée en appel. Une audience supplémentaire est prévue.",
+    "dateCreation": "2019-08-11T12:59:21.423044"
+  },
+  {
+    "_id": "2b573815-67c1-45d6-9cff-a78233f206c1",
+    "source": "Cour de Cassation",
+    "localisation": "Montpellier",
+    "text": "Le juge a ordonné une expertise complémentaire. Le conseil statue sur le litige. La cassation a été partiellement acceptée. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2024-02-21T12:59:21.423055"
+  },
+  {
+    "_id": "7ece3965-c411-47e7-a766-fa3de4fd5d58",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Reims",
+    "text": "La cour a rejeté la demande pour absence de fondement. La cour a rejeté la demande pour absence de fondement.",
+    "dateCreation": "2022-08-28T12:59:21.423067"
+  },
+  {
+    "_id": "e04e38d2-ea00-4952-ad99-ae0a15304f90",
+    "source": "Cour de Cassation",
+    "localisation": "Bobigny",
+    "text": "La cassation a été partiellement acceptée. Le juge a ordonné une expertise complémentaire. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2022-03-11T12:59:21.423078"
+  },
+  {
+    "_id": "513e5480-0df6-4549-a75d-3206fd1628e9",
+    "source": "Tribunal de Commerce",
+    "localisation": "Bobigny",
+    "text": "Le tribunal a rendu une décision favorable. La cassation a été partiellement acceptée. L'affaire sera examinée en appel.",
+    "dateCreation": "02/02/2024",
+    "interetParticulier": false
+  },
+  {
+    "_id": "d9603f18-7f1f-4f4c-89b3-d4d93ad1522f",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Lyon",
+    "text": "La cassation a été partiellement acceptée. Le tribunal a rendu une décision favorable. Le tribunal a rendu une décision favorable. Une audience supplémentaire est prévue. La cassation a été partiellement acceptée.",
+    "dateCreation": "2016-06-05T12:59:21.423102",
+    "interetParticulier": false
+  },
+  {
+    "_id": "3cf5aeaa-fd77-4428-8a32-63ede0443d28",
+    "source": "Cour de Cassation",
+    "localisation": "Bobigny",
+    "text": "La juridiction confirme le jugement précédent. La cassation a été partiellement acceptée. La juridiction confirme le jugement précédent. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2023-07-14T12:59:21.423114",
+    "interetParticulier": false
+  },
+  {
+    "_id": "99044e84-f1d5-4924-97d7-d09fa514db2f",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Lyon",
+    "text": "Une audience supplémentaire est prévue. Le conseil statue sur le litige. Le juge a ordonné une expertise complémentaire. L'affaire sera examinée en appel.",
+    "dateCreation": "2021-12-25T12:59:21.423145"
+  },
+  {
+    "_id": "b29a7e08-1356-45df-b65e-9965fbc6e699",
+    "source": "Cour de Cassation",
+    "localisation": "Erigny",
+    "text": "Le tribunal a rendu une décision favorable. L'affaire sera examinée en appel. Une audience supplémentaire est prévue. Le conseil statue sur le litige. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2022-04-23T12:59:21.423166"
+  },
+  {
+    "_id": "8c60ad13-37f4-49e2-a2e3-8a3ee75b0728",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Bordeaux",
+    "text": "La cour a rejeté la demande pour absence de fondement. La cour a rejeté la demande pour absence de fondement. Le juge a ordonné une expertise complémentaire. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2019-11-21T12:59:21.423177"
+  },
+  {
+    "_id": "12f7f14a-dc44-4321-9b3f-dc65db7758af",
+    "source": "Tribunal de Commerce",
+    "localisation": "Reims",
+    "text": "Le juge a ordonné une expertise complémentaire. La juridiction confirme le jugement précédent. La cour a rejeté la demande pour absence de fondement. L'affaire sera examinée en appel. Un jugement contradictoire a été prononcé. ⚖️ Le juge considère que…\nNouvelle ligne pour préciser.",
+    "dateCreation": "2020-10-09T12:59:21.423190",
+    "interetParticulier": null
+  },
+  {
+    "_id": "b32bcf25-ac0c-48a0-b913-95d00eadaa9a",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Reims",
+    "text": "La cassation a été partiellement acceptée. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2024-07-09T12:59:21.423201"
+  },
+  {
+    "_id": "3f959fa1-243f-4bf7-9032-aa2bce95ee5c",
+    "source": "Cour de Cassation",
+    "localisation": "Montpellier",
+    "text": "Le conseil statue sur le litige. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "31/05/2020"
+  },
+  {
+    "_id": "973b62d8-c1c5-494b-a495-ac5c546a8ba9",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Monpellier",
+    "text": "Une audience supplémentaire est prévue. Une audience supplémentaire est prévue. Un jugement contradictoire a été prononcé.",
+    "dateCreation": "2016-06-26T12:59:21.423223"
+  },
+  {
+    "_id": "eac9434e-41ac-4fa7-9762-e908a7b09f2f",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Erigny",
+    "text": "Une audience supplémentaire est prévue. La cassation a été partiellement acceptée. L'affaire sera examinée en appel. La cassation a été partiellement acceptée.",
+    "dateCreation": "2025-07-15T12:59:21.423241",
+    "interetParticulier": true
+  },
+  {
+    "_id": "6f798c00-d236-4fe2-b39e-5701e188d48b",
+    "source": "Cour d'Appel",
+    "localisation": "Paris",
+    "text": "L'appelant a fourni de nouveaux éléments. Une audience supplémentaire est prévue. Une audience supplémentaire est prévue. Une audience supplémentaire est prévue. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2025-04-20T12:59:21.423252",
+    "interetParticulier": true
+  },
+  {
+    "_id": "ea41ad86-39a3-4d98-8b13-6fd9cf7d241d",
+    "source": "Cour d'Appel",
+    "localisation": "Montpellier",
+    "text": "La juridiction confirme le jugement précédent. L'appelant a fourni de nouveaux éléments. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2024-06-18T12:59:21.423274"
+  },
+  {
+    "_id": "5baa7adb-87d4-4c7d-aabe-439a2e657c89",
+    "source": "Cour de Cassation",
+    "localisation": "Montpellier",
+    "text": "L'affaire sera examinée en appel. L'affaire sera examinée en appel. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2021-11-13T12:59:21.423303"
+  },
+  {
+    "_id": "f0290853-ee32-41aa-a245-90b33b091860",
+    "source": "Cour de Cassation",
+    "localisation": "Montpellier",
+    "text": "Une audience supplémentaire est prévue. La cour a rejeté la demande pour absence de fondement. Le juge a ordonné une expertise complémentaire. L'appelant a fourni de nouveaux éléments. Texte en plusieurs lignes:\n- Premier point\n- Deuxième point\n© 2025 Tribunal",
+    "dateCreation": "2020-06-18T12:59:21.423321"
+  },
+  {
+    "_id": "939bad37-2410-4a0e-85ac-86fc0cad470f",
+    "source": "Tribunal de Commerce",
+    "localisation": "Reims",
+    "text": "Le tribunal a rendu une décision favorable. La cour a rejeté la demande pour absence de fondement. La cour a rejeté la demande pour absence de fondement. ⚖️ Le juge considère que…\nNouvelle ligne pour préciser.",
+    "dateCreation": "2017-01-29T12:59:21.423330",
+    "interetParticulier": false
+  },
+  {
+    "_id": "a52a0999-132d-4e0c-9889-b9d73e6ecc55",
+    "source": "Cour d'Appel",
+    "localisation": "Reims",
+    "text": "La juridiction confirme le jugement précédent. La cassation a été partiellement acceptée. Le juge a ordonné une expertise complémentaire. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2023-08-26T12:59:21.423342",
+    "interetParticulier": null
+  },
+  {
+    "_id": "49306db9-888d-47b7-b601-5667581b31a5",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Paris",
+    "text": "La cassation a été partiellement acceptée. L'affaire sera examinée en appel. Le conseil statue sur le litige. La cour a rejeté la demande pour absence de fondement. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2015-10-20T12:59:21.423366",
+    "interetParticulier": true
+  },
+  {
+    "_id": "792a87ea-bf4b-421a-a2d6-7c0b7f9a63dc",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Montpellier",
+    "text": "Un jugement contradictoire a été prononcé. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2021-10-19T12:59:21.423398",
+    "interetParticulier": false
+  },
+  {
+    "_id": "d442ea9d-db57-43d3-b346-ff0802b5b0d2",
+    "source": "Cour d'Appel",
+    "localisation": "Bordeaux",
+    "text": "Le conseil statue sur le litige. Un jugement contradictoire a été prononcé. La cour a rejeté la demande pour absence de fondement.",
+    "dateCreation": "2018-07-07T12:59:21.423411"
+  },
+  {
+    "_id": "56398c14-ba89-4e95-b856-a3e87c5f68c9",
+    "source": "Cour de Cassation",
+    "localisation": "Montpellier",
+    "text": "Le tribunal a rendu une décision favorable. Le tribunal a rendu une décision favorable. La cour a rejeté la demande pour absence de fondement.",
+    "dateCreation": "2016-02-06T12:59:21.423420"
+  },
+  {
+    "_id": "32b5276b-12ff-4397-8a0d-bc864294090d",
+    "source": "Tribunal de Commerce",
+    "localisation": "Erigny",
+    "text": "La cour a rejeté la demande pour absence de fondement. Le conseil statue sur le litige. Le juge a ordonné une expertise complémentaire. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2022-02-23T12:59:21.423430"
+  },
+  {
+    "_id": "eaad76d1-5ee6-4283-99e0-88ee9c18d59c",
+    "source": "Tribunal de Commerce",
+    "localisation": "Montpellier",
+    "text": "Un jugement contradictoire a été prononcé. Un jugement contradictoire a été prononcé. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2023-11-17T12:59:21.423447",
+    "interetParticulier": false
+  },
+  {
+    "_id": "1d8652cd-124b-4865-b846-8f9773926bcb",
+    "source": "Tribunal de Commerce",
+    "localisation": "Reims",
+    "text": "L'affaire sera examinée en appel. L'appelant a fourni de nouveaux éléments. La cassation a été partiellement acceptée. L'affaire sera examinée en appel. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2024-01-05T12:59:21.423497",
+    "interetParticulier": true
+  },
+  {
+    "_id": "c3365465-0c6d-4b57-97c3-c1c16686302f",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Reims",
+    "text": "Un jugement contradictoire a été prononcé. La juridiction confirme le jugement précédent. Le juge a ordonné une expertise complémentaire. La cour a rejeté la demande pour absence de fondement. <p><strong>Décision :</strong> La cour statue définitivement.</p>",
+    "dateCreation": "2018-06-22T12:59:21.423526"
+  },
+  {
+    "_id": "794cab5e-88a5-460f-8c79-c69035ffa3ae",
+    "source": "Tribunal de Commerce",
+    "localisation": "Reims",
+    "text": "La cassation a été partiellement acceptée. Le conseil statue sur le litige. Le conseil statue sur le litige.",
+    "dateCreation": "2023-07-02T12:59:21.423536",
+    "interetParticulier": false
+  },
+  {
+    "_id": "34341b9b-8cc6-4a02-8831-99ebc8d03f16",
+    "source": "Tribunal de Commerce",
+    "localisation": "Reims",
+    "text": "Une audience supplémentaire est prévue. La cassation a été partiellement acceptée. La juridiction confirme le jugement précédent. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2018-02-18T12:59:21.423547",
+    "interetParticulier": false
+  },
+  {
+    "_id": "0fdfac1e-2634-4328-b0d0-218d02399531",
+    "source": "Tribunal de Commerce",
+    "localisation": "Marseille",
+    "text": "Le juge a ordonné une expertise complémentaire. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2022-10-17T12:59:21.423558"
+  },
+  {
+    "_id": "2db095d7-b725-4e2d-87f6-701c8644316f",
+    "source": "Tribunal de Commerce",
+    "localisation": "Lyon",
+    "text": "La cour a rejeté la demande pour absence de fondement. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2022-07-01T12:59:21.423568",
+    "interetParticulier": true
+  },
+  {
+    "_id": "b9fadf28-6f18-4555-b162-948f7946eeea",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Bobigny",
+    "text": "Le tribunal a rendu une décision favorable. La juridiction confirme le jugement précédent. Le conseil statue sur le litige. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2018-05-10T12:59:21.423582"
+  },
+  {
+    "_id": "3bd39d7c-dc5f-4e12-846d-79f603a0d129",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Paris",
+    "text": "L'appelant a fourni de nouveaux éléments. L'appelant a fourni de nouveaux éléments. L'affaire sera examinée en appel. La cassation a été partiellement acceptée. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2024-04-24T12:59:21.423600",
+    "interetParticulier": true
+  },
+  {
+    "_id": "7b4c0f43-6c84-4263-8a4c-4d0b5bf13de6",
+    "source": "Cour d'Appel",
+    "localisation": "Montpellier",
+    "text": "La cassation a été partiellement acceptée. La juridiction confirme le jugement précédent. Le juge a ordonné une expertise complémentaire. L'affaire sera examinée en appel.",
+    "dateCreation": 1679443200
+  },
+  {
+    "_id": "e41a2667-5fed-4801-9126-76aabe44da3c",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Reims",
+    "text": "Une audience supplémentaire est prévue. Le juge a ordonné une expertise complémentaire. Le tribunal a rendu une décision favorable. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2017-10-14T12:59:21.423641"
+  },
+  {
+    "_id": "cb96ef3d-278a-4830-a127-0a572d0d2334",
+    "source": "Cour de Cassation",
+    "localisation": "Bobigny",
+    "text": "La cour a rejeté la demande pour absence de fondement. Le conseil statue sur le litige. L'appelant a fourni de nouveaux éléments. Le conseil statue sur le litige. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2021-12-03T12:59:21.423651"
+  },
+  {
+    "_id": "e61852c2-b2bf-4a79-a90a-d455015ec87f",
+    "source": "Cour de Cassation",
+    "localisation": "Lyon",
+    "text": "Le tribunal a rendu une décision favorable. La cour a rejeté la demande pour absence de fondement. L'affaire sera examinée en appel.",
+    "dateCreation": "2022-08-16T12:59:21.423660"
+  },
+  {
+    "_id": "afd90926-aeec-4329-90ce-271625924684",
+    "source": "Tribunal de Commerce",
+    "localisation": "Lyon",
+    "text": "La cassation a été partiellement acceptée. L'appelant a fourni de nouveaux éléments. La cassation a été partiellement acceptée. La cassation a été partiellement acceptée. ⚖️ Le juge considère que…\nNouvelle ligne pour préciser.",
+    "dateCreation": "2020-12-19T12:59:21.423670"
+  },
+  {
+    "_id": "a4a12a69-e8bb-410c-877a-2cd47d90584d",
+    "source": "Tribunal de Commerce",
+    "localisation": "Reims",
+    "text": "Un jugement contradictoire a été prononcé. Le juge a ordonné une expertise complémentaire. La cassation a été partiellement acceptée. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2019-01-28T12:59:21.423680",
+    "interetParticulier": false
+  },
+  {
+    "_id": "708110f4-e498-48c2-8112-fa02ffbada1c",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Bordeaux",
+    "text": "Le juge a ordonné une expertise complémentaire. Le conseil statue sur le litige. Une audience supplémentaire est prévue. Un jugement contradictoire a été prononcé. Le conseil statue sur le litige.",
+    "dateCreation": "2025-05-13T12:59:21.423696"
+  },
+  {
+    "_id": "4bcac8a2-2c1e-4e5b-b62f-b976e59870d7",
+    "source": "Tribunal de Commerce",
+    "localisation": "Paris",
+    "text": "La juridiction confirme le jugement précédent. L'appelant a fourni de nouveaux éléments. La cassation a été partiellement acceptée. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2019-08-08T12:59:21.423710",
+    "interetParticulier": true
+  },
+  {
+    "_id": "43e61fc8-fc6b-4484-9bd8-01c9519f5146",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Paris",
+    "text": "Le juge a ordonné une expertise complémentaire. La juridiction confirme le jugement précédent. Un jugement contradictoire a été prononcé.",
+    "dateCreation": "2021-12-28T12:59:21.423720"
+  },
+  {
+    "_id": "17f6da85-55e2-41d8-a39c-f9812ef035ae",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Montpellier",
+    "text": "La cour a rejeté la demande pour absence de fondement. Un jugement contradictoire a été prononcé. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2018-09-05T12:59:21.423730"
+  },
+  {
+    "_id": "f96ca811-5c13-4875-9171-efd05da0f752",
+    "source": "Cour de Cassation",
+    "localisation": "Paris",
+    "text": "La cour a rejeté la demande pour absence de fondement. L'affaire sera examinée en appel. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2015-11-15T12:59:21.423741",
+    "interetParticulier": false
+  },
+  {
+    "_id": "45a689f7-f586-4fd8-a61a-10de9f83e7c8",
+    "source": "Cour de Cassation",
+    "localisation": "Bobigny ",
+    "text": "La cassation a été partiellement acceptée. La cassation a été partiellement acceptée. L'appelant a fourni de nouveaux éléments. La cassation a été partiellement acceptée. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2018-07-16T12:59:21.423764"
+  },
+  {
+    "_id": "ca5532b3-45c5-40bc-a681-c094dc16b544",
+    "source": "Tribunal de Commerce",
+    "localisation": "Bobigny",
+    "text": "Le conseil statue sur le litige. Une audience supplémentaire est prévue. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2020-10-07T12:59:21.423803"
+  },
+  {
+    "_id": "16cdb95f-189f-4396-8c78-364879e38f48",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Lyon",
+    "text": "Un jugement contradictoire a été prononcé. Un jugement contradictoire a été prononcé. Le juge a ordonné une expertise complémentaire. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2020-11-20T12:59:21.423826"
+  },
+  {
+    "_id": "0ed4e8ef-899d-4516-9e1a-85efdba6916b",
+    "source": "Cour de Cassation",
+    "localisation": "Reims",
+    "text": "Le tribunal a rendu une décision favorable. Un jugement contradictoire a été prononcé. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2018-12-17T12:59:21.423845",
+    "interetParticulier": false
+  },
+  {
+    "_id": "016c7fcf-f17d-47d7-9b8a-8c7b88a8de7b",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Lyon",
+    "text": "Le conseil statue sur le litige. Le conseil statue sur le litige. La cour a rejeté la demande pour absence de fondement. Une audience supplémentaire est prévue. Une audience supplémentaire est prévue. Texte en plusieurs lignes:\n- Premier point\n- Deuxième point\n© 2025 Tribunal",
+    "dateCreation": "2022-08-23T12:59:21.423858"
+  },
+  {
+    "_id": "65e960d0-e85a-44a6-9ae6-11a5abf2bdbb",
+    "source": "Tribunal de Commerce",
+    "localisation": "Lyon",
+    "text": "L'affaire sera examinée en appel. Le tribunal a rendu une décision favorable. La cour a rejeté la demande pour absence de fondement.",
+    "dateCreation": "2016-07-01T12:59:21.423868",
+    "interetParticulier": false
+  },
+  {
+    "_id": "0bac83ac-db49-4f88-8c1d-e38157495331",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Paris",
+    "text": "La cour a rejeté la demande pour absence de fondement. L'affaire sera examinée en appel. L'affaire sera examinée en appel. L'affaire sera examinée en appel. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2019-02-19T12:59:21.423878",
+    "interetParticulier": true
+  },
+  {
+    "_id": "9a95b5eb-a179-402c-b814-56bd6cb17829",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Reims",
+    "text": "Le tribunal a rendu une décision favorable. L'affaire sera examinée en appel. Un jugement contradictoire a été prononcé.",
+    "dateCreation": "2025-01-20T12:59:21.423888"
+  },
+  {
+    "_id": "de49ec05-e783-42ef-a906-6cab92fc5ed0",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Montpellier",
+    "text": "Une audience supplémentaire est prévue. La cassation a été partiellement acceptée.",
+    "dateCreation": "2019-12-08T12:59:21.423898",
+    "interetParticulier": false
+  },
+  {
+    "_id": "e0589e29-cf68-43e4-89a1-5a2bd202ad93",
+    "source": "Cour de Cassation",
+    "localisation": "Marseille",
+    "text": "L'affaire sera examinée en appel. Le tribunal a rendu une décision favorable. Le conseil statue sur le litige.",
+    "dateCreation": "2018-10-21T12:59:21.423907",
+    "interetParticulier": false
+  },
+  {
+    "_id": "0759f3f2-3b1f-4faa-867c-9b6d8e247ceb",
+    "source": "Tribunal de Commerce",
+    "localisation": "Paris",
+    "text": "Le tribunal a rendu une décision favorable. La cour a rejeté la demande pour absence de fondement. La cour a rejeté la demande pour absence de fondement. Texte en plusieurs lignes:\n- Premier point\n- Deuxième point\n© 2025 Tribunal",
+    "dateCreation": "2024-03-13T12:59:21.423920"
+  },
+  {
+    "_id": "3906d360-b3bd-4538-ad20-0aa3f9dc17fa",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Marseille",
+    "text": "La juridiction confirme le jugement précédent. L'affaire sera examinée en appel.",
+    "dateCreation": "28/08/2018"
+  },
+  {
+    "_id": "55338cbf-77b3-40d6-a448-b898f003bc28",
+    "source": "Tribunal de Commerce",
+    "localisation": "Reims",
+    "text": "La juridiction confirme le jugement précédent. L'affaire sera examinée en appel. Le tribunal a rendu une décision favorable. Le tribunal a rendu une décision favorable. Texte en plusieurs lignes:\n- Premier point\n- Deuxième point\n© 2025 Tribunal",
+    "dateCreation": "2023-10-09T12:59:21.423940"
+  },
+  {
+    "_id": "27e4ca64-f801-441c-a83b-b7683fc22823",
+    "source": "Cour de Cassation",
+    "localisation": "Lyon",
+    "text": "Un jugement contradictoire a été prononcé. Un jugement contradictoire a été prononcé. La cassation a été partiellement acceptée.",
+    "dateCreation": 1743292800
+  },
+  {
+    "_id": "82ea3f4c-2d05-43f1-beea-f2ce0adaecb9",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Bobigny",
+    "text": "Le juge a ordonné une expertise complémentaire. Le conseil statue sur le litige.",
+    "dateCreation": "2017-04-15T12:59:21.423959",
+    "interetParticulier": true
+  },
+  {
+    "_id": "6b1880c3-49ec-474e-ba0f-e4311658a4c6",
+    "source": "Cour d'Appel",
+    "localisation": "Bobigny",
+    "text": "La cassation a été partiellement acceptée. La cour a rejeté la demande pour absence de fondement. Le conseil statue sur le litige. La cassation a été partiellement acceptée. La cassation a été partiellement acceptée.",
+    "dateCreation": "2019-06-08T12:59:21.423975",
+    "interetParticulier": true
+  },
+  {
+    "_id": "e60975e5-53a4-4ec5-9323-65c59160b75a",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Marseille",
+    "text": "Une audience supplémentaire est prévue. Le conseil statue sur le litige. L'affaire sera examinée en appel. Un jugement contradictoire a été prononcé. La juridiction confirme le jugement précédent.",
+    "dateCreation": "2020-08-14T12:59:21.423991"
+  },
+  {
+    "_id": "11e04b53-ae6d-48ba-b4cf-b20a5f7e2c31",
+    "source": "Cour de Cassation",
+    "localisation": "Bordeaux",
+    "text": "Le juge a ordonné une expertise complémentaire. Le conseil statue sur le litige.",
+    "dateCreation": "2020-10-13T12:59:21.424008",
+    "interetParticulier": false
+  },
+  {
+    "_id": "dffc0682-8f8f-4198-a9d6-c23ff31ba7f9",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Bobigny",
+    "text": "L'affaire sera examinée en appel. L'appelant a fourni de nouveaux éléments.",
+    "dateCreation": "2017-10-10T12:59:21.424019"
+  },
+  {
+    "_id": "23e7be1d-5df4-495f-943b-b63ee3f2243e",
+    "source": "Conseil de Prud'Hommes",
+    "localisation": "Marseille",
+    "text": "La cassation a été partiellement acceptée. Un jugement contradictoire a été prononcé.",
+    "dateCreation": "2023-07-27T12:59:21.424029"
+  },
+  {
+    "_id": "b2c2da10-ec83-40bc-8a13-00fc62a0bf96",
+    "source": "Tribunal de Commerce",
+    "localisation": "Erigny",
+    "text": "Une audience supplémentaire est prévue. Le conseil statue sur le litige. Le conseil statue sur le litige. Le tribunal a rendu une décision favorable.",
+    "dateCreation": "2018-08-11T12:59:21.424039",
+    "interetParticulier": true
+  },
+  {
+    "_id": "796d976e-9bc5-4a7a-bb57-3c8918a00ea7",
+    "source": "Tribunal Judiciaire",
+    "localisation": "Bobigny",
+    "text": "La juridiction confirme le jugement précédent. Le juge a ordonné une expertise complémentaire. Le conseil statue sur le litige. L'affaire sera examinée en appel. La cassation a été partiellement acceptée.",
+    "dateCreation": "2015-10-10T12:59:21.424049"
+  },
+  {
+    "_id": "6c57b254-2fbb-4560-b13d-d0617653ae4b",
+    "source": "Cour d'Appel",
+    "localisation": "Montpellier",
+    "text": "L'affaire sera examinée en appel. La juridiction confirme le jugement précédent. Une audience supplémentaire est prévue. Le juge a ordonné une expertise complémentaire.",
+    "dateCreation": "2016-11-15T12:59:21.424063"
+  },
+  {
+    "_id": "9ff4fa6f-cee1-40c1-9ece-03d94997a4cd",
+    "source": "Cour d'Appel",
+    "localisation": "Bobigny",
+    "text": "Une audience supplémentaire est prévue. Un jugement contradictoire a été prononcé. L'affaire sera examinée en appel.",
+    "dateCreation": "2017-04-01T12:59:21.424073"
+  }
+]
