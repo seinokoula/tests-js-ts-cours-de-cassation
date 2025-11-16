@@ -52,7 +52,7 @@ module.exports.allSettled = (promises) => {
 // ne fait plus référence à Henri, mais à undefined ou à l'objet global.
 // Donc this.name retourne undefined au lieu de "Henri".
 
-// Solutions utilisée :
+// Solution utilisée :
 // Utiliser .bind() pour lier explicitement le contexte
 
 module.exports.introduceHenri = (createCharacter) => {
